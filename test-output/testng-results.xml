@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26486" started-at="2019-11-29T02:14:57 GST" finished-at="2019-11-29T02:15:24 GST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26486" started-at="2019-11-29T02:14:57 GST" finished-at="2019-11-29T02:15:24 GST">
+      <class name="jokesAPI.JokesTests">
+        <test-method status="PASS" signature="getCategories()[pri:1, instance:jokesAPI.JokesTests@704a52ec]" name="getCategories" duration-ms="2586" started-at="2019-11-29T02:14:57 GST" finished-at="2019-11-29T02:15:00 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCategories -->
+        <test-method status="PASS" signature="getRandomCategories()[pri:2, instance:jokesAPI.JokesTests@704a52ec]" name="getRandomCategories" duration-ms="21687" started-at="2019-11-29T02:15:00 GST" finished-at="2019-11-29T02:15:21 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRandomCategories -->
+        <test-method status="PASS" signature="JokesChecks()[pri:3, instance:jokesAPI.JokesTests@704a52ec]" name="JokesChecks" duration-ms="1401" started-at="2019-11-29T02:15:21 GST" finished-at="2019-11-29T02:15:23 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JokesChecks -->
+        <test-method status="PASS" signature="NoJokesTest()[pri:4, instance:jokesAPI.JokesTests@704a52ec]" name="NoJokesTest" duration-ms="784" started-at="2019-11-29T02:15:23 GST" finished-at="2019-11-29T02:15:24 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoJokesTest -->
+      </class> <!-- jokesAPI.JokesTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
