@@ -25,6 +25,6 @@ then
 
 
 Reporting
+* Logs written into (Log results) file in the root path with all expected and actual rsults.
+* expected and actual rsults also has been insetred in the Console.
 * Reports  are written into test-output - Default suite - Default test.html after a successful run.
-* Logs written into Log results with all expected rsults 
-* expected results also has been insetred in the Console
