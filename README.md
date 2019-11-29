@@ -4,7 +4,7 @@ Test script have been written to execute APIs for https://api.chucknorris.io.
 
 Description of project files :
 * src/jokesAPI :
-2- Tests class: contains the test scripts.
+1- Tests class: contains the test scripts.
 
 Tools:
 1- Maven
@@ -25,6 +25,6 @@ navigate to jokesAPI directory and run as:  TestNG test
 
 
 Reporting
-- Reports  are written into /test-output ==> Default suite ==> Default test.html after a successful run.
-- Logs written into Log results with all expected rsults 
-- expected results also has been insetred in the Console
+* Reports  are written into test-output - Default suite - Default test.html after a successful run.
+* Logs written into Log results with all expected rsults 
+* expected results also has been insetred in the Console
