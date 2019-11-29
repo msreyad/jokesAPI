@@ -20,7 +20,7 @@ Usage
 you need to install TestNG in Eclipse if not install yet
 https://www.ecanarys.com/Blogs/ArticleID/169/How-to-Install-TestNG-framework-Step-by-Step-installation-process
 then 
-navigate to jokesAPI directory and run as:  TestNG test
+* navigate to JokesTests class under scr/jokesAPI and run as:  TestNG test
 
 
 
